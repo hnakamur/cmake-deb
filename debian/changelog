@@ -1,3 +1,9 @@
+cmake (3.15.4-1ubuntu3ppa1~bionic) bionic; urgency=medium
+
+  * Backport to bionic 
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Wed, 22 Jan 2020 01:07:11 +0900
+
 cmake (3.15.4-1ubuntu3) focal; urgency=medium
 
   * Unset proxy settings during autopkgtest. Tests try to resolve no-site
